@@ -1,0 +1,4 @@
+flask
+psycopg2 # for postgresql database
+flask-sqlalchemy # for database management
+Flask-Migrate # database migration
